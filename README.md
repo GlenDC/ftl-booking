@@ -19,3 +19,8 @@ Please reach out to [glen@plabayo.tech](mailto:glen@plabayo.tech) in case you wa
 - Cloud-Ready but works just as wel on-premise;
 - Ready to use as-is, or make it yours by customizing it into your wildest fantasies;
 - Self-hosted or reach out to [glen@plabayo.tech](mailto:glen@plabayo.tech) to get info about the managed options;
+
+## In Development Notes
+
+<https://github.com/Kotlin/kmm-production-sample> is a great sample cased used as inspiration on how
+to achieve our cross-platform app with maximal code reuse.
